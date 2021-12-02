@@ -1,4 +1,5 @@
 #Ex potències
+#Bel Santandreu Nadal
 
 echo "Digues un numero"
 read num1
