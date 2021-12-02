@@ -1,3 +1,6 @@
+#Ex iteracions 2
+#Bel Santandreu Nadal
+
 n=1
 while (( $n <= 5 ))
 do
