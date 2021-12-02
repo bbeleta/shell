@@ -1,4 +1,5 @@
 #Ex array 2
+#Bel Santandreu Nadal
 
 LLETRES=("h" "h" "t" "u" "k" "g" "f" "h" "u" "i")
 
