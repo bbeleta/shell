@@ -1,4 +1,5 @@
-#condicional, exercici 1
+#condicional, exercici 2
+#Bel Santandreu Nadal
 
 echo "Digues el teu nom"
 read nom
