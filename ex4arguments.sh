@@ -1,5 +1,5 @@
 #exercici arguments 4
-
+#Bel Santandreu Nadal
 
 echo El primer argument és $1
 echo El segon és $2
