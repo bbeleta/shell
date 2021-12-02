@@ -1,4 +1,5 @@
 #ex1 interacions
+#Bel Santandreu Nadal
 
 n=1
 
