@@ -1,4 +1,5 @@
 #condicional, exercici 5
+#Bel Santandreu Nadal
 
 numero3=$((RANDOM%10))
 numero4=$((RANDOM%11))
