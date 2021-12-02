@@ -1,3 +1,6 @@
+#Ex condicinal 4
+#Bel Santandreu Nadal
+
 num=$((RANDOM%11))
 echo $num
 
