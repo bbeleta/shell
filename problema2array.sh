@@ -1,5 +1,5 @@
 #PROBLEMA 1 ARRAY
-
+#Bel Santandreu Nadal
 
 conta=0
 echo $*
