@@ -1,4 +1,5 @@
 #Problema 1 ITERACIONS
+#Bel Santandreu Nadal
 
 echo "Digues un nombre"
     read nombre1
