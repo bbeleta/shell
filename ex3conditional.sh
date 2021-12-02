@@ -1,4 +1,6 @@
 #conditional, exercici 3
+#Bel Santandreu Nadal
+
 numero=$(($RANDOM%10))
 echo $numero
 echo "Digues un altre numero"
