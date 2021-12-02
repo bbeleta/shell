@@ -10,7 +10,7 @@ for (( i=0; i<numero; i++ ))
 do
     for (( j=1; j<numero; j++ ))
     do
-        printf $numero - 1
+        printf $numero 
     done
     echo $numero
 
