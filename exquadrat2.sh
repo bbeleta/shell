@@ -9,7 +9,7 @@ suma=0
 
 for (( i=0; i<numero; i++ ))
 do
-    for (( j=1; j<numero; j++ ))
+    for (( j=0; j<numero; j++ ))
     do
         printf $suma
     if [ $suma -lt 9 ]
@@ -19,6 +19,6 @@ do
     suma=0
 fi 
     done
-    echo $suma
+    echo ""
 done
 
